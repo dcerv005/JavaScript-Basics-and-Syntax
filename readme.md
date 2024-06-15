@@ -1,0 +1,1 @@
+This assignment is introducing some basic JavaScript. Here we are working with primitive data types and operators. 
